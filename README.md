@@ -1,4 +1,4 @@
-![image](https://github.com/harini1006/IMAGE-TRANSFORMATIONS/assets/113497405/20ad50fb-9fc7-4147-a266-7a7cdd84ddcc)# IMAGE-TRANSFORMATIONS
+# IMAGE-TRANSFORMATIONS
 
 
 ## Aim
@@ -269,77 +269,67 @@ show_image(cropped_image)
 ```
 ## Output:
 ### i)Image Translation
-<br>
+
 ![image](https://github.com/harini1006/IMAGE-TRANSFORMATIONS/assets/113497405/93df1e32-885e-4036-ad7a-21d020c575f3)
 
-<br>
-<br>
+
 ![image](https://github.com/harini1006/IMAGE-TRANSFORMATIONS/assets/113497405/c99cc97c-e193-46e1-8965-23650d69bd37)
 
-<br>
+
 
 ### ii) Image Scaling
-<br>
+
 ![image](https://github.com/harini1006/IMAGE-TRANSFORMATIONS/assets/113497405/a33fb3fd-43f2-4a2b-a974-6998ac357f43)
 
-<br>
-<br>
+
 ![image](https://github.com/harini1006/IMAGE-TRANSFORMATIONS/assets/113497405/611533f9-72ec-47b7-b9d8-98a77983d280)
 
-<br>
+
 
 
 ### iii)Image shearing
-<br>
+
 ![Screenshot 2024-03-13 093255](https://github.com/harini1006/IMAGE-TRANSFORMATIONS/assets/113497405/c3b59bf5-c787-4655-a151-6c9cada54657)
 
-<br>
-<br>
+
 ![image](https://github.com/harini1006/IMAGE-TRANSFORMATIONS/assets/113497405/4e0aab53-9b65-4d15-b96c-e11feb0af9ff)
 
-<br>
+
 
 
 ### iv)Image Reflection
-<br>
+
 ![image](https://github.com/harini1006/IMAGE-TRANSFORMATIONS/assets/113497405/a56ef4b1-d0b8-480d-a993-15bbe0c33ebc)
 
-<br>
-<br>
+
 ![image](https://github.com/harini1006/IMAGE-TRANSFORMATIONS/assets/113497405/93419cb8-27af-4a21-80ec-1272472ecc57)
 
-<br>
-<br>
 ![image](https://github.com/harini1006/IMAGE-TRANSFORMATIONS/assets/113497405/1190bf82-7d77-4e76-881b-c39a7a673879)
-<br>
-<br>
+
 ![image](https://github.com/harini1006/IMAGE-TRANSFORMATIONS/assets/113497405/1a121df9-204e-40ad-aac1-a3862e9de57f)
 
-<br>
+
 
 
 
 ### v)Image Rotation
-<br>
+
 ![image](https://github.com/harini1006/IMAGE-TRANSFORMATIONS/assets/113497405/aa2cb0dc-928c-4bd3-9039-33b1885c499e)
 
-<br>
-<br>
+
 ![image](https://github.com/harini1006/IMAGE-TRANSFORMATIONS/assets/113497405/2f2deb92-ff07-48eb-a0d6-5059cd6096e1)
 
-<br>
 
 
 
 ### vi)Image Cropping
-<br>
+
 ![image](https://github.com/harini1006/IMAGE-TRANSFORMATIONS/assets/113497405/443c3038-6fc7-4477-9396-16036d70728a)
 
-<br>
-<br>
+
 ![image](https://github.com/harini1006/IMAGE-TRANSFORMATIONS/assets/113497405/06c7f973-67a4-48cf-a807-478aed37cfed)
 
-<br>
+
 
 
 
