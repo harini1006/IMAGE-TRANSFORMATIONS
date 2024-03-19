@@ -42,7 +42,7 @@ def show_image(image):
     plt.show()
 
 # Load an image from URL or file path
-image_url = '/content/grayscale.png'  
+image_url = 'dipt.jpeg'  
 image = cv2.imread(image_url)
 
 # Define translation matrix
